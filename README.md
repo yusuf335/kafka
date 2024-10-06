@@ -1,6 +1,6 @@
 # Kafka Basics
 
-This project is based on starting with Apache Kafka using the Conduktor platform for better understanding of Kafka concepts like partitioning, topics, and consumer groups. The Conduktor Docker Kafka dashboard UI is used to visualize and interact with Kafka more effectively.
+This project is based on starting with Apache Kafka with Java API, Kafka Terminal CLI and using the Conduktor platform for better understanding of Kafka concepts like partitioning, topics, and consumer groups. The Conduktor Docker Kafka dashboard UI is used to visualize and interact with Kafka more effectively.
 
 - [Conduktor](https://conduktor.io/)
 - [Learn about Apache Kafka](https://learn.conduktor.io/kafka/what-is-apache-kafka/)
